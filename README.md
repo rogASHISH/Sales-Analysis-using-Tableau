@@ -24,6 +24,6 @@ Tableau Public Dashboards:
 
 ![Sale_data Tableau](https://github.com/rogASHISH/Sales-Analysis-using-Tableauau/assets/151386180/300fc5b2-f90d-41e6-a056-4937db0054f0)
 
-Tableau Dashboard: https://public.tableau.com/views/Sales_dataTableau/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+Tableau Dashboard: [https://public.tableau.com/views/Sales_dataTableau/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Sales_dataTableau/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Sales_dataTableau/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 ## License
 This project is licensed under the [MIT License](LICENSE).
