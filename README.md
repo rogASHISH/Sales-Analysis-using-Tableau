@@ -1,4 +1,4 @@
-# Sales-Analysis-using-Tableauau
+# Sales-Analysis-using-Tableau
 
 ## Overview
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
